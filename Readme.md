@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Dima Tsviliak](https://up.htmlacademy.ru/htmlcss/23/user/824027).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Алипкин](https://htmlacademy.ru/profile/ealipkin).
 
 ---
 
